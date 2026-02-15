@@ -111,8 +111,14 @@ This project successfully transformed raw Amazon sales data into actionable busi
 
 It improved decision-making visibility by highlighting product performance, sales trends, and profitability while strengthening my expertise in SQL, Power BI, and analytical thinking.
 
+---
 
+## Visuals
 
+<img width="1134" height="632" alt="image" src="https://github.com/user-attachments/assets/b4cf031b-81dd-47de-acba-7f5148425c9b" />
+<img width="1145" height="645" alt="image" src="https://github.com/user-attachments/assets/b9db8f30-26f6-49e1-b935-92d885c70ea0" />
+<img width="1124" height="626" alt="image" src="https://github.com/user-attachments/assets/f5efe156-3262-4625-9a77-cbe795f25769" />
+<img width="1153" height="644" alt="image" src="https://github.com/user-attachments/assets/be48ac5b-ebc2-442d-9de9-1fabfd619a18" />
 
 
 
